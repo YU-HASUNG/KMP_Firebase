@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578496321361",
+    "project_id": "kmpfirebase-426821",
+    "storage_bucket": "kmpfirebase-426821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578496321361:android:9cc4fb435240d616896570",
+        "android_client_info": {
+          "package_name": "com.lcstudio.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAveeT0N4ndCK6N81Vi6Dx1Hb1VvRcA1lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
